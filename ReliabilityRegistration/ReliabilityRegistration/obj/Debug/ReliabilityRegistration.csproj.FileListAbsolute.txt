@@ -92,3 +92,5 @@ C:\Users\Njoud\Documents\Visual Studio 2017\Projects\ReliabilityRegistration\Rel
 C:\Users\Njoud\Documents\Visual Studio 2017\Projects\ReliabilityRegistration\ReliabilityRegistration\obj\Debug\ReliabilityRegistration.csproj.CoreCompileInputs.cache
 C:\Users\Njoud\Documents\Visual Studio 2017\Projects\ReliabilityRegistration\ReliabilityRegistration\obj\Debug\ReliabilityRegistration.dll
 C:\Users\Njoud\Documents\Visual Studio 2017\Projects\ReliabilityRegistration\ReliabilityRegistration\obj\Debug\ReliabilityRegistration.pdb
+C:\Users\Njoud\Documents\Visual Studio 2017\Projects\ReliabilityRegistration\ReliabilityRegistration\obj\Debug\ReliabilityRegistration.Migrations.FirstMigration.resources
+C:\Users\Njoud\Documents\Visual Studio 2017\Projects\ReliabilityRegistration\ReliabilityRegistration\obj\Debug\ReliabilityRegistration.csproj.GenerateResource.Cache

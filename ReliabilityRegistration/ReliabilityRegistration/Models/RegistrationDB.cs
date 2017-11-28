@@ -6,18 +6,17 @@ using System.Web;
 
 namespace ReliabilityRegistration.Models
 {
-    
-        public class HelpdeskDbContext : DbContext
+    public class ReliabilityDb : DbContext
         {
-            public DbSet<Registeration> Users { get; set; }
-            public HelpdeskDbContext() : base("name=DefaultConnection")
+        public DbSet<Registeration> Registerations { get; set; }
+        public ReliabilityDb() : base("name=DefaultConnection")
             {
 
             }
 
-            public static HelpdeskDbContext Create()
+            public static ReliabilityDb Create()
             {
-                return new HelpdeskDbContext();
+                return new ReliabilityDb();
             }
         }
 }

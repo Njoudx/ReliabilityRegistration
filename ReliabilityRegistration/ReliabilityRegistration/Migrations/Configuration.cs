@@ -5,14 +5,14 @@ namespace ReliabilityRegistration.Migrations
     using System.Data.Entity.Migrations;
     using System.Linq;
 
-    internal sealed class Configuration : DbMigrationsConfiguration<ReliabilityRegistration.Models.HelpdeskDbContext>
+    internal sealed class Configuration : DbMigrationsConfiguration<ReliabilityRegistration.Models.ReliabilityDb>
     {
         public Configuration()
         {
             AutomaticMigrationsEnabled = false;
         }
 
-        protected override void Seed(ReliabilityRegistration.Models.HelpdeskDbContext context)
+        protected override void Seed(ReliabilityRegistration.Models.ReliabilityDb context)
         {
             //  This method will be called after migrating to the latest version.
 
